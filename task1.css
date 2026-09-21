@@ -1,0 +1,15 @@
+.cards{
+    display: flex;
+    gap: 20px;
+}
+.card{
+    width: 250px;
+    padding:15px;
+    border: 1px solid black;
+}
+.card img {
+    width: 100%;
+}
+.card:hover {
+    transform: scale(1.05);
+}
