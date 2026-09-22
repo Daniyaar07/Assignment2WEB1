@@ -1,4 +1,4 @@
-# Assignment 2 - Flex
+# Assignment 2 - FlexBox and Grid
 This project contains tasks about Flexbox and CSS Grid.
 
 ## Tasks
