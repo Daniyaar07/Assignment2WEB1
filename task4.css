@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+    background-color: lightgrey;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightslategrey;
+    padding: 20px;
+}
+.navbar {
+    display: flex;
+    gap:20px;
+} 
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+.main {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+}
+.project {
+    display:flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    padding:15px;
+}
+.btn {
+    text-decoration: none;
+    background-color: dimgray;
+    color:black;
+    padding: 10px;
+    text-align: center;
+    width: 70px;
+}
+footer {
+    text-align: center;
+}
