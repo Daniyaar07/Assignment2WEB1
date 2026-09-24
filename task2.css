@@ -6,21 +6,21 @@
 }
 header {
     grid-area: header;
-    background-color: lightgreen;
+    background-color: rgb(91, 91, 108);
     padding:20px;
 }
 aside {
     grid-area: sidebar;
-    background-color: lightgray;
+    background-color: rgb(175, 180, 191);
     padding: 20px;
 }
 main {
     grid-area: main;
-    background-color: lightyellow;
+    background-color: rgb(146, 146, 145);
     padding: 20px;
 }
 footer {
     grid-area: footer;
-    background-color: lightgreen;
+    background-color: rgb(91, 91, 108);
     padding: 20px;
 }
